@@ -86,17 +86,17 @@ Automation solution streamlining reporting and operational communication process
 
 # Certifications
 
-- [MB-800: Microsoft Dynamics 365 Business Central Functional Consultant]([Prepare Data for Exploration.pdf](https://github.com/HannahOlagunju/HannahOlagunju/blob/bb470ab878dec365a9d1f01199ea30a472eefd41/Prepare%20Data%20for%20Exploration.pdf))
+- ([Prepare Data for Exploration.pdf](https://github.com/HannahOlagunju/HannahOlagunju/blob/bb470ab878dec365a9d1f01199ea30a472eefd41/Prepare%20Data%20for%20Exploration.pdf))
 
-- [Google Data Analytics Professional Certificate](./Google%20Data%20Analytics.pdf)
+- [[Google Data Analytics Professional Certificate](./Google%20Data%20Analytics.pdf)](https://github.com/HannahOlagunju/HannahOlagunju/blob/8c7744920b87bf704a909134bc677d952ccd762b/MB-800.pdf)
 
-- [Data Analysis with R Programming](./Data%20Analysis%20with%20R%20Programming.pdf)
+- [[Data Analysis with R Programming](./Data%20Analysis%20with%20R%20Programming.pdf)](https://github.com/HannahOlagunju/HannahOlagunju/blob/8c7744920b87bf704a909134bc677d952ccd762b/Google%20Data%20Analytics.pdf)
 
-- [Prepare Data for Exploration](./Prepare%20Data%20for%20Exploration.pdf)
+- [[Prepare Data for Exploration](./Prepare%20Data%20for%20Exploration.pdf)](https://github.com/HannahOlagunju/HannahOlagunju/blob/8c7744920b87bf704a909134bc677d952ccd762b/Dta%20Anlysis%20Boot%20Camp.pdf)
 
-- [Art of Visualization](./Art%20of%20Visualization.pdf)
+- [[Art of Visualization](./Art%20of%20Visualization.pdf)](https://github.com/HannahOlagunju/HannahOlagunju/blob/8c7744920b87bf704a909134bc677d952ccd762b/Data%20Analysis%20with%20R%20Programming.pdf)
 
-- [Data Analysis Boot Camp](./Dta%20Anlysis%20Boot%20Camp.pdf)
+- [[Data Analysis Boot Camp](./Dta%20Anlysis%20Boot%20Camp.pdf)](https://github.com/HannahOlagunju/HannahOlagunju/blob/8c7744920b87bf704a909134bc677d952ccd762b/Art%20of%20Visualization.pdf)
 
   
 # Connect With Me
