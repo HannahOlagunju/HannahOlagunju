@@ -30,7 +30,7 @@ Power Query
 DAX  
 Python  
 SharePoint  
-Power Automate
+Power Automate  
 Power Apps
 
 ---
