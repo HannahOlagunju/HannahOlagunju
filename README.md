@@ -88,9 +88,9 @@ Automation solution streamlining reporting and operational communication process
 
 - ([Prepare Data for Exploration.pdf](https://github.com/HannahOlagunju/HannahOlagunju/blob/bb470ab878dec365a9d1f01199ea30a472eefd41/Prepare%20Data%20for%20Exploration.pdf))
 
-- [[Google Data Analytics Professional Certificate](./Google%20Data%20Analytics.pdf)](https://github.com/HannahOlagunju/HannahOlagunju/blob/8c7744920b87bf704a909134bc677d952ccd762b/MB-800.pdf)
+- [[Google Data Analytics Professional Certificate](./Google%20Data%20Analytics.pdf)]
 
-- [[Data Analysis with R Programming](./Data%20Analysis%20with%20R%20Programming.pdf)](https://github.com/HannahOlagunju/HannahOlagunju/blob/8c7744920b87bf704a909134bc677d952ccd762b/Google%20Data%20Analytics.pdf)
+- [[Data Analysis with R Programming](./Data%20Analysis%20with%20R%20Programming.pdf)]
 
 - [[Prepare Data for Exploration](./Prepare%20Data%20for%20Exploration.pdf)](https://github.com/HannahOlagunju/HannahOlagunju/blob/8c7744920b87bf704a909134bc677d952ccd762b/Dta%20Anlysis%20Boot%20Camp.pdf)
 
