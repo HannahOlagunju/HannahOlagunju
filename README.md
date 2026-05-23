@@ -86,7 +86,7 @@ Automation solution streamlining reporting and operational communication process
 
 # Certifications
 
-- [MB-800: Microsoft Dynamics 365 Business Central Functional Consultant](./MB-800.pdf)
+- [MB-800: Microsoft Dynamics 365 Business Central Functional Consultant]([./MB-800.pdf](https://github.com/HannahOlagunju/HannahOlagunju/blob/Certificates/Prepare%20Data%20for%20Exploration.pdf))
 
 - [Google Data Analytics Professional Certificate](./Google%20Data%20Analytics.pdf)
 
