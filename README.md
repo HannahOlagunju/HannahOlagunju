@@ -84,6 +84,19 @@ Automation solution streamlining reporting and operational communication process
 
 ---
 
+# Certifications
+
+- [MB-800: Microsoft Dynamics 365 Business Central Functional Consultant](Art of Visualization.pdf)
+
+- [Google Data Analytics Professional Certificate](./assets/google-data-analytics.png)
+
+- [Power BI Certification](./assets/powerbi-cert.png)
+
+- [MB-800: Microsoft Dynamics 365 Business Central Functional Consultant](./assets/mb800.png)
+
+- [Google Data Analytics Professional Certificate](./assets/google-data-analytics.png)
+
+- [Power BI Certification](./assets/powerbi-cert.png)
 # Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/hannah-olagunju/ 
