@@ -1,35 +1,89 @@
 # Hi, I'm Hannah 👋
 
-Senior Data Analyst | Business Central Functional Consultant | Power BI | SQL | Power Platform
+Senior Data Analyst | Business Central Consultant
 
-I help businesses turn messy operational processes into clear reporting, automation, and better decision-making.
+I specialise in transforming business operations through data, reporting, process optimisation, and ERP solutions.
 
-## What I Do
+---
 
-- Build Power BI dashboards for procurement, finance, and operations
-- Analyse ERP and Business Central data
-- Improve manual workflows through automation
-- Bridge the gap between business users and technical teams
+# Senior Data Analyst
 
-## Featured Projects
+Experienced in delivering data-driven insights, operational reporting, executive dashboards, and business intelligence solutions that support strategic decision-making.
+
+## Areas of Expertise
+
+- Power BI dashboard development
+- SQL querying and data analysis
+- Data modelling and transformation
+- KPI and executive reporting
+- Operational and financial reporting
+- Process performance analysis
+- Data cleaning and reporting automation
+- Business intelligence solutions
+
+## Tools & Technologies
+
+Power BI  
+SQL  
+Excel  
+Power Query  
+DAX  
+Python  
+SharePoint  
+Power Automate
+
+---
+
+# Business Central Consultant
+
+Working across Dynamics 365 Business Central to improve workflows, reporting visibility, operational processes, and system efficiency.
+
+## Areas of Experience
+
+- Workflow optimisation
+- ERP process improvement
+- User support and troubleshooting
+- Reporting and operational visibility
+- Business process analysis
+- Functional system support
+- Power Platform integrations
+- Finance and procurement workflows
+- User training and stakeholder collaboration
+
+## Systems & Platforms
+
+Dynamics 365 Business Central  
+Jet Reports  
+Power Platform  
+Power Automate  
+Microsoft 365
+
+---
+
+# Featured Projects
 
 ### Procurement Performance Dashboard
-Power BI + SQL project showing overdue packages, project risk, supplier delays, and management KPIs.
+Operational reporting solution focused on visibility, KPI tracking, overdue monitoring, and management reporting.
 
-### Business Central Reporting & Process Improvement
-ERP-focused project showing how Business Central data can support approvals, finance visibility, and operational decisions.
+### Business Central Workflow Improvement
+Workflow optimisation project improving approvals, operational visibility, and process efficiency.
 
-## Tech Stack
+### Invoice & Reporting Automation
+Automation solution streamlining reporting and operational communication processes.
 
-Power BI | SQL | Excel | Power Query | DAX | Business Central | Power Automate | SharePoint | Python
+---
 
-## Current Focus
+# Current Focus
 
-- Building strong real-life data analytics projects
-- Growing into Business Central Functional Consultant roles
-- Creating practical content around analytics, ERP, and automation
+- Senior Data Analytics opportunities
+- Business Central Functional Consulting
+- ERP transformation projects
+- Operational intelligence and reporting
+- Workflow and process optimisation
 
-## Connect With Me
+---
+
+# Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/hannah-olagunju/ 
 
