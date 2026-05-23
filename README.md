@@ -31,6 +31,7 @@ DAX
 Python  
 SharePoint  
 Power Automate
+Power Apps
 
 ---
 
