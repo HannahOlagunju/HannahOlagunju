@@ -32,7 +32,6 @@ Power BI | SQL | Excel | Power Query | DAX | Business Central | Power Automate |
 ## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/hannah-olagunju/ 
-Portfolio: coming soon
 
 <!--
 **HannahOlagunju/HannahOlagunju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
